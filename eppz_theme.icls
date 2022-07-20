@@ -1,10 +1,10 @@
 <scheme name="eppz!" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-07-18T20:15:37</property>
+    <property name="created">2022-07-20T20:50:34</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-07-18T20:15:42</property>
+    <property name="modified">2022-07-20T20:50:40</property>
     <property name="originalScheme">eppz!</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -53,7 +53,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="282828" />
+    <option name="GUTTER_BACKGROUND" value="2b2d35" />
     <option name="INDENT_GUIDE" value="33353b" />
     <option name="INFORMATION_HINT" value="3e424d" />
     <option name="LINE_NUMBERS_COLOR" value="5a5a5a" />
@@ -3251,9 +3251,9 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="ReSharper.CSHARP_CLASS_IDENTIFIER">
+    <option name="ReSharper.CSHARP_CONSTANT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="876560" />
+        <option name="FOREGROUND" value="d9c679" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_FIELD_IDENTIFIER">
@@ -3686,8 +3686,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dddcd3" />
-        <option name="BACKGROUND" value="262626" />
+        <option name="FOREGROUND" value="63676f" />
+        <option name="BACKGROUND" value="2b2d35" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3698,7 +3698,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f7953e" />
+        <option name="FOREGROUND" value="ffbd2a" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
